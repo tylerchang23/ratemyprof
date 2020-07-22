@@ -8,4 +8,4 @@ When I was in college (last month lol), it was crucial that I had a good profess
 
 ## Goals
 
-My main goal of this analysis is to take a deeper look into the specifics of these reviews and ultimately determine: ***What makes a professor good?*** Furthermore I want to develop a model that can accurately ***classify whether a review is "good" or "bad" solely based on its contents!***
+My main goal of this analysis is to take a deeper look into the specifics of these reviews and ultimately determine: ***What makes a professor good?*** Furthermore I want to develop a model that can accurately ***classify whether a review is "good" or "bad."***
