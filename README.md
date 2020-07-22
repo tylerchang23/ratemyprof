@@ -6,3 +6,6 @@ When I was in college (last month lol), it was crucial that I had a good profess
 
 ![alt text](https://github.com/tylerchang23/ratemyprof/blob/master/images/erin.png)
 
+## Goals
+
+My main goal of this analysis is to take a deeper look into the specifics of these reviews and ultimately determine: ***What makes a professor good?***
