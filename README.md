@@ -10,4 +10,6 @@ When I was in college (last month lol), it was crucial that I had a good profess
 
 I want to answer a couple different questions with this analysis. 
 
-* Hi
+* **What do students look for in a good professor?**
+
+* **Do some schools in the UC system get better reviews than others?**
