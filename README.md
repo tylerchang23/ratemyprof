@@ -20,6 +20,11 @@ I wanted to answer a couple different questions with this analysis.
 
 I also wanted to **develop a model that can perform binary classification on the quality ("good" or "bad") of the review**.
 
+## Tools
+
+* Data Collection: *BeautifulSoup*
+* Natural Language Processing: *CountVectorizer, re, TextBlob*
+
 ## Results
 
 *How were students talking about my old professors?*
