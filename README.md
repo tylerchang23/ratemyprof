@@ -8,8 +8,12 @@ When I was in college (last month lol), it was crucial that I had a good profess
 
 ## Goals
 
-I want to answer a couple different questions with this analysis. 
+I wanted to answer a couple different questions with this analysis. 
+
+* **How were students talking about my old professors?**
 
 * **What do students look for in a good professor?**
 
 * **Do some schools in the UC system get better reviews than others?**
+
+I also wanted to **develop a model that can perform binary classification on the quality ("good" or "bad") of the review**.
