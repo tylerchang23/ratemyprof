@@ -20,10 +20,12 @@ I wanted to answer a couple different questions with this analysis.
 
 I also wanted to **develop a model that can perform binary classification on the quality ("good" or "bad") of the review**.
 
-## Tools
+## Tools (Python)
 
-* Data Collection: *BeautifulSoup*
-* Natural Language Processing: *CountVectorizer, re, TextBlob*
+* **Data Collection:** *BeautifulSoup*
+* **Natural Language Processing:** *CountVectorizer, re, TextBlob*
+* **Data Manipulation/Pre-processing:** *pandas, numpy*
+* **Data Visualization:** *matplotlib, seaborn, WordCloud*
 
 ## Results
 
