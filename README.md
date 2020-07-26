@@ -1,4 +1,4 @@
-# RateMyProfessor Data Analysis
+# RateMyProfessors Data Analysis
 
 You can find the Jupyter Notebook to my work [here!](https://github.com/tylerchang23/ratemyprof/blob/master/RMP_FINAL.ipynb)
 
@@ -24,3 +24,4 @@ I also wanted to **develop a model that can perform binary classification on the
 
 *How were students talking about my old professors?*
 
+![alt text](https://github.com/tylerchang23/ratemyprof/blob/master/images/wordcloud.png)
