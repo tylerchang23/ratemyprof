@@ -30,7 +30,7 @@ I also wanted to **develop a model that can perform binary classification on the
 
 ## Results
 
-*How were students talking about my old professors?*
+***How were students talking about my old professors?***
 
 After compiling the reviews for some of my old professors, I found the words/short phrases (tokens) that were commonly found in their reviews, as shown in the WordClouds below! The left side shows the most frequent tokens for one of my best professors at UC Davis, who has an overall quality of 4.5 (out of 5). The flip side shows a professor whose class I performed poorly in. From personal experience, I think these were fairly accurate when describing these professors and their classes.
 
