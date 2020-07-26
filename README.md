@@ -38,4 +38,8 @@ After compiling the reviews for some of my old professors, I found the words/sho
 
 ***What do students look for in a good professor?***
 
-When I finished the previous section, I wanted to dive deeper into *what makes a professor "good"*
+When I finished the previous section, I wanted to dive deeper into *what makes a professor "good"* at my school. The first task was to define "good."
+
+- Insert normal dist here - 
+
+After determining the **distribution of overall quality was approximately normal**, I classified **all professors who had an overall quality that was one standard deviation more than the mean (3.75) to be "good"** The "cutoff" to be a good professor was an overall quality of **4.45**.
