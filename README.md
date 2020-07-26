@@ -26,6 +26,7 @@ I also wanted to **develop a model that can perform binary classification on the
 * **Natural Language Processing:** *CountVectorizer, re, TextBlob*
 * **Data Manipulation/Pre-processing:** *pandas, numpy*
 * **Data Visualization:** *matplotlib, seaborn, WordCloud*
+* **Machine Learning:** *sklearn*
 
 ## Results
 
