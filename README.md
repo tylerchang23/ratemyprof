@@ -17,3 +17,5 @@ I wanted to answer a couple different questions with this analysis.
 * **Do some schools in the UC system get better reviews than others?**
 
 I also wanted to **develop a model that can perform binary classification on the quality ("good" or "bad") of the review**.
+
+## Results
