@@ -32,6 +32,10 @@ I also wanted to **develop a model that can perform binary classification on the
 
 ***How were students talking about my old professors?***
 
-After compiling the reviews for some of my old professors, I found the words/short phrases (tokens) that were commonly found in their reviews, as shown in the WordClouds below! The left side shows the most frequent tokens for one of my best professors at UC Davis, who has an overall quality of 4.5 (out of 5). The flip side shows a professor whose class I performed poorly in. From personal experience, I think these were fairly accurate when describing these professors and their classes.
+After compiling the reviews for some of my old professors, I found the words/short phrases (tokens) that were commonly found in their reviews, as shown in the WordClouds below! The left side shows the most frequent tokens for one of my best professors at UC Davis, who has an overall quality of 4.5 (out of 5). The flip side shows a professor whose class I performed poorly in. From personal experience, I think these were fairly accurate when describing these professors and their classes. It was interesting to see the shift in tone between a seemingly "good" professor and "bad" professor.
 
 ![alt text](https://github.com/tylerchang23/ratemyprof/blob/master/images/wordcloud.png)
+
+***What do students look for in a good professor?***
+
+When I finished the previous section, I wanted to dive deeper into *what makes a professor "good"*
