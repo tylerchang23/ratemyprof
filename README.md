@@ -56,4 +56,4 @@ The first detail we examined was the **frequently used tags** used for these goo
 
 To further investigate this result, I again looked at the text of the review and find the most frequent tokens found with the good professors.
 
--Insert good professor wordcloud-
+![alt text](https://github.com/tylerchang23/ratemyprof/blob/master/images/good_prof.png)
