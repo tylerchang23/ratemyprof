@@ -65,3 +65,17 @@ In this part, I decided to take a deeper look into the text of the reviews. With
 ![alt text](https://github.com/tylerchang23/ratemyprof/blob/master/images/schools.png)
 
 On average, all of the schools had **slightly positive toned reviews**, but followed a normal distribution. Similarly, each of the schools had **highly subjective ratings**, which makes sense for a student's personal review. From this, we can see that **there was no one school in the UC system that got significantly "better" reviews than the other.**
+
+***Classification***
+
+In the final part of the project, I wanted to wrap things up by creating a model that could classify whether a review was going to be good (quality > 2.5) or bad based on its contents.
+
+| Model      | 10-fold CV Accuracy|
+| ------------- |:-------------:|
+| Logistic Regression| 84.10% |
+| Gradient Boosting Classifier| 83.88% |   
+| Gaussian Naive Bayes| 82.40% |
+| K-Nearest Neighbors | 77.89% |
+| Linear Support Vector Classifier | 77.01% |
+| Decision Tree Classifier | 76.00% |
+| Stochastic Gradient Descent | 75.64 % |
