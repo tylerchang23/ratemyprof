@@ -1,4 +1,4 @@
-# RateMyProfessor Data Analysis
+# RateMyProfessors Data Analysis
 
 You can find the Jupyter Notebook to my work [here!](https://github.com/tylerchang23/ratemyprof/blob/master/RMP_FINAL.ipynb)
 
@@ -20,7 +20,41 @@ I wanted to answer a couple different questions with this analysis.
 
 I also wanted to **develop a model that can perform binary classification on the quality ("good" or "bad") of the review**.
 
+## Tools (Python)
+
+* **Data Collection:** *BeautifulSoup*
+* **Natural Language Processing:** *CountVectorizer, re, TextBlob*
+* **Data Manipulation/Pre-processing:** *pandas, numpy*
+* **Data Visualization:** *matplotlib, seaborn, WordCloud*
+* **Machine Learning:** *sklearn*
+
 ## Results
 
-*How were students talking about my old professors?*
+***How were students talking about my old professors?***
+
+After compiling the reviews for some of my old professors, I found the words/short phrases (tokens) that were commonly found in their reviews, as shown in the WordClouds below! The left side shows the most frequent tokens for one of my best professors at UC Davis, who has an overall quality of 4.5 (out of 5). The flip side shows a professor whose class I performed poorly in. From personal experience, I think these were fairly accurate when describing these professors and their classes. It was interesting to see the shift in tone between a seemingly "good" professor and "bad" professor.
+
+![alt text](https://github.com/tylerchang23/ratemyprof/blob/master/images/wordcloud.png)
+
+***What do students look for in a good professor?***
+
+When I finished the previous section, I wanted to dive deeper into *what makes a professor "good"* at my school. The first task was to define "good."
+
+- Insert normal dist here - 
+
+After determining the **distribution of overall quality was approximately normal**, I classified **all professors who had an overall quality that was one standard deviation more than the mean (3.75) to be "good"** The "cutoff" to be a good professor was an overall quality of **4.45**.
+
+| Tag       | Percentage of Good Professors|
+| ------------- |:-------------:| 
+| Respected| 80% | 
+| Amazing lectures| 70% |   
+| Inspirational | 50% |
+| Hilarious | 40% |
+| Caring | 40% | 
+
+The first detail we examined was the **frequently used tags** used for these good professors. Interestingly, 4 of the 5 most frequently seen tags were **not related to actual teaching style**. Surprisingly, **the majority of frequently seen tags were related to personality!**
+
+To further investigate this result, I again looked at the text of the review and find the most frequent tokens found with the good professors.
+
+-Insert good professor wordcloud-
 
