@@ -46,10 +46,11 @@ After determining the **distribution of overall quality was approximately normal
 
 | Tag       | Percentage of Good Professors|
 | ------------- |:-------------:| 
-| col 3 is      | right-aligned | 
-| col 2 is      | centered      |   
-| zebra stripes | are neat      |
-
+| Respected    | right-aligned | 
+| Amazing lectures      | centered      |   
+| Inspirational | are neat      |
+| Hilarious | |
+| Caring | |
 The first detail we examined was the **frequently used tags** used for these good professors. Interestingly, 4 of the 5 most frequently seen tags were **not related to actual teaching style**. Surprisingly, **the majority of frequently seen tags were related to personality!**
 
 To further investigate this result, I again looked at the text of the review and find the most frequent tokens found with the good professors.
