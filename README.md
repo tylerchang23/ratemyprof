@@ -44,7 +44,11 @@ When I finished the previous section, I wanted to dive deeper into *what makes a
 
 After determining the **distribution of overall quality was approximately normal**, I classified **all professors who had an overall quality that was one standard deviation more than the mean (3.75) to be "good"** The "cutoff" to be a good professor was an overall quality of **4.45**.
 
-- Insert table of tags here -
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 The first detail we examined was the **frequently used tags** used for these good professors. Interestingly, 4 of the 5 most frequently seen tags were **not related to actual teaching style**. Surprisingly, **the majority of frequently seen tags were related to personality!**
 
