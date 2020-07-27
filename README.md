@@ -46,11 +46,11 @@ After determining the **distribution of overall quality was approximately normal
 
 | Tag       | Percentage of Good Professors|
 | ------------- |:-------------:| 
-| Respected    | 80% | 
-| Amazing lectures      | centered      |   
-| Inspirational | are neat      |
-| Hilarious | |
-| Caring | |
+| Respected| 80% | 
+| Amazing lectures| 70% |   
+| Inspirational | 50% |
+| Hilarious | 40% |
+| Caring | 40% | 
 
 The first detail we examined was the **frequently used tags** used for these good professors. Interestingly, 4 of the 5 most frequently seen tags were **not related to actual teaching style**. Surprisingly, **the majority of frequently seen tags were related to personality!**
 
