@@ -44,7 +44,7 @@ When I finished the previous section, I wanted to dive deeper into *what makes a
 
 After determining the **distribution of overall quality was approximately normal**, I classified **all professors who had an overall quality that was one standard deviation more than the mean (3.75) to be "good"** The "cutoff" to be a good professor was an overall quality of **4.45**.
 
-| Tag       | Percentage of Good Professors Seen|
+| Tag       | Percentage of Good Professors With Tag|
 | ------------- |:-------------:|
 | Respected| 80% |
 | Amazing lectures| 70% |   
@@ -57,3 +57,11 @@ The first detail we examined was the **frequently used tags** used for these goo
 To further investigate this result, I again looked at the text of the review and found the most frequent tokens found with the good professors. Based on token frequency, it appears that **students also value teaching style**, with words like '*clear*' and '*helpful*' being prevalent. We can also see that **students may actually be valuing quality over easiness**. There's a good mix of words like "*easy*" and "*hard"*, "*helpful*" and "*difficult*", and words that indicate that you still have to do work to succeed like "*study*", "*homework*", etc..
 
 ![alt text](https://github.com/tylerchang23/ratemyprof/blob/master/images/good_prof.png)
+
+***Do some schools in the UC system get better reviews than others?***
+
+In this part, I decided to take a deeper look into the text of the reviews. Within each text, I examined its **polarity and subjectivity** as defined by [`TextBlob`](https://textblob.readthedocs.io/en/dev/). Specifically looking across two departments (Statistics and Economics) at three different UC's (UC Davis, UC Irvine, UC Berkeley), it appears that each school follows a similar pattern in distribution.
+
+![alt text](https://github.com/tylerchang23/ratemyprof/blob/master/images/good_prof.png)
+
+On average, all of the schools had **slightly positive toned reviews**, but followed a normal distribution. Similarly, each of the schools had **highly subjective ratings**, which makes sense for a student's personal review. From this, we can see that **there was no one school in the UC system that got significantly "better" reviews than the other.**
