@@ -46,7 +46,7 @@ After determining the **distribution of overall quality was approximately normal
 
 | Tag       | Percentage of Good Professors|
 | ------------- |:-------------:| 
-| Respected    | right-aligned | 
+| Respected    | 80% | 
 | Amazing lectures      | centered      |   
 | Inspirational | are neat      |
 | Hilarious | |
