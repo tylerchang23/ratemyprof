@@ -10,7 +10,7 @@ When I was in college (last month lol), it was crucial that I had a good profess
 
 ## Goals
 
-I wanted to answer a couple different questions with this analysis. 
+I wanted to answer a couple different questions with this analysis.
 
 * **How were students talking about my old professors?**
 
@@ -40,21 +40,20 @@ After compiling the reviews for some of my old professors, I found the words/sho
 
 When I finished the previous section, I wanted to dive deeper into *what makes a professor "good"* at my school. The first task was to define "good."
 
-- Insert normal dist here - 
+![alt text](https://github.com/tylerchang23/ratemyprof/blob/master/images/quality_dist.png)
 
 After determining the **distribution of overall quality was approximately normal**, I classified **all professors who had an overall quality that was one standard deviation more than the mean (3.75) to be "good"** The "cutoff" to be a good professor was an overall quality of **4.45**.
 
 | Tag       | Percentage of Good Professors|
-| ------------- |:-------------:| 
-| Respected| 80% | 
+| ------------- |:-------------:|
+| Respected| 80% |
 | Amazing lectures| 70% |   
 | Inspirational | 50% |
 | Hilarious | 40% |
-| Caring | 40% | 
+| Caring | 40% |
 
 The first detail we examined was the **frequently used tags** used for these good professors. Interestingly, 4 of the 5 most frequently seen tags were **not related to actual teaching style**. Surprisingly, **the majority of frequently seen tags were related to personality!**
 
 To further investigate this result, I again looked at the text of the review and find the most frequent tokens found with the good professors.
 
 -Insert good professor wordcloud-
-
