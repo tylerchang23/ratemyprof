@@ -1,4 +1,4 @@
-# RateMyProfessors Data Analysis
+# What Makes A Professor Good?
 
 You can find the Jupyter Notebook to my work [here!](https://github.com/tylerchang23/ratemyprof/blob/master/RMP_FINAL.ipynb)
 
