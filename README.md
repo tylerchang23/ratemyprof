@@ -1,6 +1,6 @@
 # What Makes A Professor Good?
 
-You can find the Jupyter Notebook to my work [here!](https://github.com/tylerchang23/ratemyprof/blob/master/RMP_FINAL.ipynb)
+You can find the Jupyter Notebook to my work [here!](https://nbviewer.jupyter.org/github/tylerchang23/ratemyprof/blob/master/RMP_FINAL.ipynb)
 
 ## Introduction
 
